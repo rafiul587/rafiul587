@@ -63,9 +63,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiul587&show_icons=true&locale=en&layout=compact" alt="rafiul587" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiul587&show_icons=true&locale=en" alt="rafiul587" /></p>
+| <a href="https://github-readme-stats.vercel.app/api?username=rafiul587&show_icons=true&include_all_commits=true&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiul587&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Rafiul Islam's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul587&layout=compact&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiul587&layout=compact&theme=default&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul587&" alt="rafiul587" /></p>
 
