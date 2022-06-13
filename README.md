@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose, Kotlin**
 
-- 📝 I regularly write articles on [http://qubartech.xyz](http://qubartech.xyz)
+- 📝 I regularly write articles on [http://qubartech.com](http://qubartech.com)
 
 - 💬 Ask me about **Android, Kotlin, Jetpack compose**
 
